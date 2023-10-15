@@ -1,4 +1,4 @@
-# PLN-Projects
+# Projetos PLN
 Repositório que reúne todos os projetos feitos na disciplina Processamento de Linguagem Natural - UFABC. 
 
 ### Projeto 1
